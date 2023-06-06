@@ -1,0 +1,13 @@
+@font-face {font-family: "TacticSans-Reg"; 
+    src: url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.eot"); src: url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.eot?#iefix") format("embedded-opentype"), 
+    url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.woff") format("woff"), url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.svg#TacticSans-Reg") format("svg"); }
+
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    font-family: "TacticSans-Reg";
+}
